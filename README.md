@@ -22,6 +22,8 @@ If the user clicks on a city in the saved city list, it displays the weather for
 If the list gets very long and the user wants to clear out the list of
 past cities, there is a "Clear Saved Cities" button.  
 
+[Weather Dashboard](https://geleasure.github.io/TimedQuiz/)
+
 The application displays the following data:  
 
 Current weather: 
