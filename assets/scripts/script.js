@@ -157,7 +157,7 @@ function buildButtons() {
 }
 
 $("#clear-past-cities").on("click", function () {
-   weatherCities = ["Raleigh"]; 
+   weatherCities = ["Miami"]; 
    cityIndex = 0;  
    localStorage.removeItem("lastCityIndex");
    localStorage.removeItem("weatherCities"); 
