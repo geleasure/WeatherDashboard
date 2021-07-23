@@ -1,0 +1,51 @@
+ 
+.container {
+    max-width: 1200px !important;  
+    overflow-y: scroll;
+    min-height: 0; 
+ }
+
+
+
+h1, #alt-heading {
+    background-color: midnightblue;
+    color: white; 
+}
+
+.city-button, #city-name, #short-city-name
+ {
+    background-color: white !important; 
+    text-align: left; 
+    text-transform: capitalize;      
+}
+
+.city-button:hover {
+    color: blue !important;
+    border-color: #888 !important;  
+}
+
+#search-column {
+    background-color: #f4f4f4; 
+    height: 100%;  
+}
+
+#search-city, #get-city { 
+    border-radius: 5px; 
+    text-transform: capitalize; 
+}
+
+#current-weather-details {
+    line-height: 3;   
+}
+
+.forecast { 
+    background-color: lightsteelblue !important; 
+}
+
+.heading { 
+    font-weight: bold; 
+}
+
+#error-message {
+    color: red; 
+}
